@@ -1,2 +1,6 @@
 # Al-Pacino
-Hobby project
+
+#setup free db
+#setup free host(currently local)
+#create endpoints
+#
